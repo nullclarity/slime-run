@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\unityProjects\deathrun" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Customizable Skybox" t="Include">
+          <e p="Stylized Sky" t="Include">
+            <e p="Shaders" t="Include">
+              <e p="Stylized Sky.shader" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Models" t="Include">
+          <e p="Kawaii Slime" t="Include">
+            <e p="Cameras" t="Include">
+              <e p="CameraGuidelines.txt" t="Include" />
+              <e p="Scripts" t="Include">
+                <e p="AbstractTargetFollower.cs" t="Include" />
+                <e p="FreeLookCam.cs" t="Include" />
+                <e p="PivotBasedCameraRig.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="AI" t="Include">
+                <e p="EnemyAi.cs" t="Include" />
+                <e p="Face.cs" t="Include" />
+              </e>
+              <e p="GameManager.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="Unity-chan Shader Ver 1.2.1" t="Include">
+                <e p="readme.txt" t="Include" />
+                <e p="Unitychan_chara_eye.shader" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="IMovable.cs" t="Include" />
+          <e p="PlayerMovement.cs" t="Include" />
+        </e>
+      </e>
+      <e p="deathrun.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\nullclarity\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\nullclarity\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_deathrun.986189316.00" t="ExcludeRecursive" />
+  </component>
+</project>
